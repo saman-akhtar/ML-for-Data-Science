@@ -1,4 +1,4 @@
-## homework-1-SamanUSC
+## KNNclassifier
 
 # This project uses KNNclassifier and works on vetebral column data: https://archive.ics.uci.edu/ml/datasets/Vertebral+Column
 
@@ -12,4 +12,4 @@ used for the class labels: DH (Disk Hernia), Spondylolisthesis (SL), Normal (NO)
 Abnormal (AB). In this exercise, we only focus on a binary classification task NO=0
 and AB=1.
 
-homework-1-SamanUSC created by GitHub Classroom
+
